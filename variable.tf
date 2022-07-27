@@ -33,7 +33,7 @@ variable "instance_tags" {
   default = {
     Name     = "Amazon-Linux"
     CreateBy = "Terraform"
-    Owner = "LazonLinux"
-    
+    Owner    = "LazonLinux"
+
   }
 }
