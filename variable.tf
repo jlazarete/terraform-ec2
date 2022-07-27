@@ -32,7 +32,6 @@ variable "instance_tags" {
   description = ""
   default = {
     Name     = "Amazon-Linux"
-    Project  = "Aprendendo"
     CreateBy = "Terraform"
     Owner = "LazonLinux"
     
