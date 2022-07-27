@@ -34,8 +34,7 @@ variable "instance_tags" {
     Name     = "Amazon-Linux"
     Project  = "Aprendendo"
     CreateBy = "Terraform"
-    Status   = "Sou Foda"
-    Owner = "Lazom"
+    Owner = "LazonLinux"
     
   }
 }
